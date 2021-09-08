@@ -1,0 +1,40 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+header{
+  background-color: gold;
+  height: 300px;
+  text-align: center;
+  font-size: 100px;
+}
+.context{
+  background-color: black;
+  text-align: center;
+  color: bisque;
+  font-size: 40px;
+}
+.parent{
+  overflow: hidden;
+}
+.menu{
+  background-color: darkgrey;
+  text-align: center;
+  width: 20%;
+  font-size: 15px;
+  height: 160%;
+  float: left;
+}
+footer{
+  background-color: black;
+  color: gold;
+  height: 90px;
+  font-size: 30px;
+  text-align: center;
+}
+.info{
+  background-color: lawngreen;
+  font-size: 20px;
+  text-align: center;
+  height: 50px;
+}
